@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/DStab/CStabDist.py
+src/DStab/__init__.py
+src/DStab.egg-info/PKG-INFO
+src/DStab.egg-info/SOURCES.txt
+src/DStab.egg-info/dependency_links.txt
+src/DStab.egg-info/top_level.txt

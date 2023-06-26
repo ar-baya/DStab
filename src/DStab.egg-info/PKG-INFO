@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: DStab
+Version: 0.0.1
+Summary: DStab package. Read https://doi.org/10.1007/s10044-023-01175-7
+Author-email: Ariel Baya <ariel.baya@gmail.com>
+Project-URL: Homepage, https://github.com/ar-baya/DStab
+Project-URL: Bug Tracker, https://github.com/ar-baya/DStab/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+ 
