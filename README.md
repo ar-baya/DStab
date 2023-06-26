@@ -10,10 +10,12 @@ Folder DStab/dist contains packages, which can be
 ---
 Folder DStab/examples_data/ contains examples and data.
 
-![Fig.1 - R15 Linear Sum](https://github.com/ar-baya/DStab/blob/main/examples_data/R15_res_tmp.png "R15 Linear Sum")
 Figure 1
-![Fig.2 - D31 Linear Sum](https://github.com/ar-baya/DStab/blob/main/examples_data/R15_res_tmp.png "D31 Linear Sum")
+![Fig.1 - R15 Linear Sum](https://github.com/ar-baya/DStab/blob/main/examples_data/R15_res_tmp.png "R15 Linear Sum")
+
 Figure 2
+![Fig.2 - D31 Linear Sum](https://github.com/ar-baya/DStab/blob/main/examples_data/R15_res_tmp.png "D31 Linear Sum")
+
 ---
 Figures 1 and 2 can be generated with the data provided in examples_data by 
 1. Running <span style="color:red">python3 DStab.km.toy.py</span>. This script creates .mat files with scores
