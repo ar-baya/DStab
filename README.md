@@ -10,10 +10,10 @@ Folder DStab/dist contains packages, which can be
 ---
 Folder DStab/examples_data/ contains examples and data.
 
-Figure 1
+    Figure 1
 ![Fig.1 - R15 Linear Sum](https://github.com/ar-baya/DStab/blob/main/examples_data/R15_res_tmp.png "R15 Linear Sum")
 
-Figure 2
+    Figure 2
 ![Fig.2 - D31 Linear Sum](https://github.com/ar-baya/DStab/blob/main/examples_data/R15_res_tmp.png "D31 Linear Sum")
 
 ---
